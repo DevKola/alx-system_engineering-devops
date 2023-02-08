@@ -1,1 +1,1 @@
-This is my first commit. I'm to write the command that print the current working directiory, which is "pwd".
+This is my first commit. I'm to write the command that print th current working directiory, which is "pwd". This what I've been asked to do and it is what I've done. Hopefully it gets checked rightfully this time.
